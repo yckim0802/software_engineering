@@ -1,0 +1,10 @@
+* SW공학 기말관련 질문 *
+1. pairwise? 
+2. activity diagram?
+3. use-case diagram?
+
+* 교수님께 드리고 싶은 말씀 *
+1. 감사합니다.
+2. 죄송합니다.
+3. 여러가지들을 기술..
+et cetera...
